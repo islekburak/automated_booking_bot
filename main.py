@@ -14,7 +14,7 @@ from selenium.webdriver.support import expected_conditions as EC
 DriverPath = "drivers/chrome/117.0.5938.88/chromedriver"
 url = "http://online.spor.istanbul/uyegiris"
 txtTCPasaport = "xxx"
-txtSifre = "yyy"
+txtSifre = "yyyzzz"
 
 def online_randevu():
     options = Options()
