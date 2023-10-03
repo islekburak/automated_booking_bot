@@ -1,0 +1,8 @@
+SpeechRecognition==3.10.0
+pydub==0.25.1
+requests==2.31.0
+selenium==4.12.0
+schedule==1.2.0
+ffmpeg-downloader==0.2.0
+ffmpy3==0.2.4
+urllib3==2.0.5
